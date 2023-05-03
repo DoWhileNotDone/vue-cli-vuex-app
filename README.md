@@ -1,4 +1,4 @@
-# vue-pinia-app
+# vue-vuex-app
 
 ## Project setup
 ```
